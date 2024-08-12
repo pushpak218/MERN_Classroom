@@ -1,0 +1,18 @@
+/* Specific styles for Timetable Form */
+.form-container {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  button {
+    background-color: #007bff;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

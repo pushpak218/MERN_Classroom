@@ -1,0 +1,9 @@
+/* Specific styles for Principal Dashboard */
+.container {
+    max-width: 1000px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  

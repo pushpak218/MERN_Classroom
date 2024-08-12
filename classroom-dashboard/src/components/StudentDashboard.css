@@ -1,0 +1,9 @@
+/* Specific styles for Student Dashboard */
+.container {
+    max-width: 600px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  

@@ -1,0 +1,18 @@
+/* Specific styles for Classroom Form */
+.form-container {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  button {
+    background-color: #28a745;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
